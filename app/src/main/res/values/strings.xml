@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="fa_edit_marker">\u2190</string>
+</resources>
